@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'aicore_properties'
 description 'Hopefully one day a feature rich property system'
-repository 'https://github.com/0error-scripts/aicore_properties'
+repository 'https://github.com/aicore-fivem/aicore_properties'
 version '0.0.1'
 
 ox_lib 'locale'

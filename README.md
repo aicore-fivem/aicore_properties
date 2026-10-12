@@ -3,7 +3,7 @@
 From a fresh Aicore build
 1. Remove `aicore_apartments`
 2. Remove `aicore_houses`
-3. Either use no spawn system (so the core defaults to last location) or https://github.com/0error-scripts/aicore_spawn/
+3. Either use no spawn system (so the core defaults to last location) or https://github.com/aicore-fivem/aicore_spawn/
 
 ### todo
 
